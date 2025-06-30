@@ -1,0 +1,18 @@
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+.tituloPrincipal {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+}
+
+#GranTitulo {
+    font-size: 68px;
+    color: aqua;
+}
+
+.titulosJuanma {
+    color: red;
+}
